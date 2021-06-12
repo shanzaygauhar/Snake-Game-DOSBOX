@@ -34,7 +34,11 @@ and play the game.
 * Eat's a `dangerous fruit` 
 * If the snake does not reach 240 characters size in 4 minutes.
 * If the snake touches itself
+
+
 After every 20 seconds the speed of snake is twice as the previous speed.
+
+
 There are 3 levels in the above developed game. Each level is difficult and different barriers are added in each level.
 
 ### Level 1
