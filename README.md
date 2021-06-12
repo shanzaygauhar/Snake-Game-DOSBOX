@@ -7,7 +7,11 @@ First of all in order to run the application
 2. Download `nasm` and extract the file in the directory which contains the above .asm file.You can do that with this [Link](https://theiteducation.com/how-to-install-nasm-on-windows-10-how-to-type-and-run-assembly-language-program/). It gives you all the step wise details to download nasm and how to mount the drive that contains nasm and DOSBox.
 3. Mount the directory which contains nasm and .asm file in DOSBOX.
 4. Run the following command:
+
+
 `nasm snake.asm -o snake.com`
+
+
 After this command, run this command and the game will start:
 `snake.com`
 Once you have created this snake.com file, you may directly run the command after you have mount to the drive of the project and navigate where file is:
@@ -37,10 +41,16 @@ There are 3 levels in the above developed game. Each level is difficult and diff
 ![image](https://user-images.githubusercontent.com/68595241/121787749-7242e980-cbe1-11eb-9c90-ef67f876871b.png)
 ### Level 2
 Oops! I lost! :)
+
+
 ![image](https://user-images.githubusercontent.com/68595241/121786655-b67ebb80-cbda-11eb-8358-20b4361c27af.png)
 ### Level 3
 Again! Lost the game! I hope you're a better player than I am! :)
+
+
 ![image](https://user-images.githubusercontent.com/68595241/121787789-acac8680-cbe1-11eb-9741-8e447fac7b51.png)
+
+Enjoy the game!
 
 
 
